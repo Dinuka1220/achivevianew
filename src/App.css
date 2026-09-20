@@ -1,0 +1,205 @@
+.circleimg {
+    left: 3rem;
+}
+
+.yellowimg{
+    margin-top: 8rem;
+}
+
+.ourvalue{
+    margin-top: 14rem;
+}
+
+.stepbottomimg{
+    width: 6rem;
+}
+
+.testimonialscard{
+    width: 250px;
+    height: 260px;
+    border: 8px solid #0a1e3d;
+
+}
+
+@media (min-width: 375px) {
+    .circleimg {
+        left: 4.4rem;
+    }
+    .stepbottomimg{
+        width: 8rem;
+    }
+
+    .ourvalue{
+        margin-top: 16rem;
+    }
+
+}
+
+
+
+@media (min-width: 425px) {
+    .circleimg {
+        left: 4.4rem;
+    }
+    .stepbottomimg{
+        width: 8rem;
+    }
+
+    .ourvalue{
+        margin-top: 20rem;
+    }
+
+}
+
+
+@media (min-width: 768px) {
+    .testimonialscard{
+        width: 250px;
+        height: 350px;
+        border: 8px solid #0a1e3d;
+
+    }
+
+    .stepbottomimg{
+        width: 6rem;
+    }
+
+
+    .circleimg {
+        left: 16rem;
+    }
+
+    .ourvalue{
+        margin-top: 30rem;
+    }
+
+
+
+
+}
+
+
+
+@media (min-width: 1024px) {
+    .circleimg {
+        left: 2rem;
+
+    }
+
+    .ourvalue{
+        margin-top: 0rem;
+    }
+}
+
+
+
+
+@media (min-width: 1800px) {
+    .circleimg {
+        left: 10rem;
+    }
+
+
+}
+
+@media (min-width: 1700px) {
+
+
+
+    .header{
+        margin-left: 20rem;
+    }
+
+    .card3{
+
+        padding-top: 4rem;
+        margin-left: 35rem;
+
+    }
+
+    .card1{
+
+        padding-top: 4rem;
+
+
+    }
+
+    .card2{
+
+        padding-top: 4rem;
+        margin-left: 20rem;
+
+
+    }
+    .card4{
+
+        padding-top: 3rem;
+        margin-left: 50rem;
+
+
+    }
+    .card5{
+
+        padding-top: 3rem;
+        margin-left: 68rem;
+
+
+    }
+    .card6{
+
+
+        margin-left: 80rem;
+
+
+    }
+
+    .heroheading{
+        font-size: 6rem;
+    }
+
+    .herodescription{
+        font-size: 1.2rem;
+        max-width: 40rem;
+    }
+
+    .testimonialscard{
+        width: 250px;
+        height: 350px;
+        border: 8px solid #0a1e3d;
+    }
+
+    .pathsection{
+        height: 48rem;
+    }
+
+    .bottomvector{
+        margin-bottom: 6rem;
+    }
+
+    .card2{
+
+
+    }
+
+    .card3{
+
+        padding-top: 30px;
+    }
+
+    .card4{
+
+        padding-top: 55px;
+    }
+
+    .card5{
+
+        padding-top: 5px;
+    }
+
+    .cardsqure6{
+
+        margin-top: -5rem;
+    }
+
+
+}
